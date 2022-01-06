@@ -1,2 +1,6 @@
-# they_use_hermes
-List of companies that use Hermes for delivery, great place to block!
+# These companies use Hermes
+
+## Health & Fitness
+
+* [yfood](https://uk.yfood.eu/)
+* [athletic greens](https://athleticgreens.com/)
